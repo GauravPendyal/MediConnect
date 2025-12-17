@@ -140,9 +140,7 @@ A comprehensive healthcare management system built with React, TypeScript, Node.
    Create a `.env` file in the root directory:
    ```env
    # MongoDB
-   MONGODB_URI=mongodb://localhost:27017/mediconnect
    # Or for MongoDB Atlas:
-   # MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/mediconnect
    
    # JWT Secret
    JWT_SECRET=your-secret-key-change-in-production
